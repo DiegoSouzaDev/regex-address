@@ -27,7 +27,7 @@ The  application will starting on port `8080`.
 
 **ENDPOINTS**
 ```
-GET http://localhost:8080/parse/address/
+POST http://localhost:8080/parse/address/
 ```
 
 **REQUEST**
