@@ -34,7 +34,7 @@ POST http://localhost:8080/parse/address/
 
 |Method | Call | Body | Description|
 |------------ | ------------- | -------------| -------------|
-|GET | `/parse/address/` | String of an address | Return a JSON with the street name and house number.
+|POST | `/parse/address/` | String of an address | Return a JSON with the street name and house number.
 
 
 **REQUEST AND RESPONSE EXEMPLE**
